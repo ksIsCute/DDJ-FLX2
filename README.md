@@ -72,7 +72,3 @@ To remove:
    rm ~/.mixxx/controllers/DDJ-FLX2.midi.js
    ```
 2. In Mixxx **Preferences** → **Controllers**, remove the FLX2 entry.
-
----
-
-This follows Mixxx’s Linux MIDI guidelines and ensures proper jog/scratch behavior. Let me know if you hit any snags!
